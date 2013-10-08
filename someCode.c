@@ -6,5 +6,9 @@ class someShittyCode {
   {
     if (cnt%3==0)
     printf ("Fizzzzz")
+    if (cnt%5==0)
+    printf("Buzzzzzz")
+    if (cnt%3!=0 && cnt%5!=0)
+    printf(cnt "/n")
   }
 }
