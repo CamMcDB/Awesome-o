@@ -1,4 +1,4 @@
-#include <opencv/something>
+#include <someShittyLib>
 
 class someShittyCode {
   ShittyFunction
